@@ -1,3 +1,4 @@
+#Using tkinter which is a graphical support library for python.
 from tkinter import *
 
 window=Tk()
